@@ -1,6 +1,6 @@
 # MAC250 - Student Enrollment System
 
-This App is base on the basic information needed for a Schools Database. 
+This Database App is based on the basic information needed for a Schools Database. 
 These entities include Teachers, Students, Courses and enrollments
 
 
