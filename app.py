@@ -28,7 +28,7 @@ DB_CONFIG = {
     "host": "127.0.0.1",
     "port": 3306,
     "user": "root",
-    "password": "Pass1234",
+    "password": "YOUR_LOCAL_SERVER_PASSWORD",
     "database": "school",
 }
 
