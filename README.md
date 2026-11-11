@@ -1,11 +1,12 @@
 # MAC250 - Student Enrollment System
 
 This Database App is based on the basic information needed for a Schools Database. 
-These entities include Teachers, Students, Courses and enrollments
+These entities include Teachers, Students, Courses and enrollments. This is made to run
+on a local server with a basic front end build in python.
 
 
 ## Features
-- Displaying, updating, deleting and adding of students, teachers and courses
+- Displaying, updating, deleting and adding of students, teachers and courses to a database running on a local server.
 
 
 
