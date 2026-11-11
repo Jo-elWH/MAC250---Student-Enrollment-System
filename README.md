@@ -19,7 +19,7 @@ To succesfully run this app you will also need to install mysql-connector-python
 
 The above command can be run in console.
 
-You will also have to open up the app.py file in your favourite editor and add your local servers root pass
+You will also have to open up the app.py file in your favourite editor and add your local servers root password
 on line 31 under "DB_CONFIG"
 
 
